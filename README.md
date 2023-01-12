@@ -1,6 +1,4 @@
 # PraticaTabuada
-Projeto console desenvolvido no PDI - 2022/3o TRI
-
 Programa simples para treino de tabuada.
 
 # Requisitos
