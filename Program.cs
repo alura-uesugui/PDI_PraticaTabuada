@@ -23,9 +23,9 @@ namespace tabuada
             {
                 Console.Clear();
 
-                Console.WriteLine("1 - Fácil");     // Tabuada do 0 ao 5
-                Console.WriteLine("2 - Médio");     // Tabuada do 0 ao 10
-                Console.WriteLine("3 - Difícil");   // Tabuada do 0 ao 20
+                Console.WriteLine("1 - Fácil");
+                Console.WriteLine("2 - Médio");
+                Console.WriteLine("3 - Difícil"); 
                 
                 Console.Write("\nDigite a dificuldade desejada: ");
 
